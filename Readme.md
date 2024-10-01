@@ -1,4 +1,3 @@
-```markdown
 # ♻️ EcoCycleHub 🌍
 
 ## Project: Recycling and Its Importance
